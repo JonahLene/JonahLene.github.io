@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: C:\Users\Jonah Lene\Downloads\bank_vault.jpg
+image: img/micromouse/micromouse-square.jpg
 title: "Bank Database"
 date: 2022-03-26
 published: true
