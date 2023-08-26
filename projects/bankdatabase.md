@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: C:\Users\Jonah Lene\Downloads\bank_vault.jpg
 title: "Bank Database"
 date: 2022-03-26
 published: true
 labels:
   - Class Project
-  - uhunix
+  - Uhunix
   - C
-summary: "In this first class project, I created a program that acted as a Bank Database in which it could store, add, and delete user accounts. 
+summary: "In this first class project, I created a program that acted as a Bank Database in which it could store, add, and delete user accounts."
 ---
 
 Since this was an introductory course in the C language, this project was used as my first big assignment where I was able to use all my newly acquired knowledge in C and create a program that represents a bank database. In this project, I had to create multiple C files, header files, and object files. Some of the names of these files include database.o, record.h, user_interface.c, e.t.c. After creating these files, I then linked them together to create an executbale file titled project.
