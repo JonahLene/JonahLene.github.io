@@ -20,17 +20,20 @@
   ],
   "skills": [
     {
-      "name": "Experienced in Progamming Languages",
+      "name": "Experienced in Programming Languages",
       "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Able to work with various personality types"
+      "keywords": "",
     },
     {
       "name": "Proficient in problem-solving"
+      "keywords": "",
     },
     {
       "name": "Deadline driven"
+      "keywords": ""
     }
   ],
   "education": [
@@ -62,7 +65,7 @@
       "position": "Professional organization involvement",
       "startDate": "2021-05-07",
       "endDate": "2021-05-07",
-      "summary": "Picked up plastics, trash, and any other harmful materials at Kalama beach park."
+      "summary": "Picked up plastics, trash, and any other harmful materials at Kalama Beach Park."
     }
   ],
   "references": [
