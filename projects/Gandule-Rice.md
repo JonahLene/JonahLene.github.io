@@ -9,10 +9,14 @@ labels:
   - Class Project
   - Uhunix
   - C
-summary: "In this first-class project, I created a program that acted as a Bank Database in which it could store, add, and delete user accounts."
+summary: "My grandma shows off her cooking skills by preparing a cultural dish using a family recipe."
 ---
 
-<img class="img-fluid" src="../img/Screenshot%20(1).png">
+<div class="text-center p-4">
+  <img width="200px" src="../img/gan_rice_3.png" class="img-thumbnail" >
+  <img width="200px" src="../img/gan_rice_2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/gan_rice_1.png" class="img-thumbnail" >
+</div>
 
 Since this was an introductory course in the C language, this project was used as my first big assignment where I was able to use all my newly acquired knowledge in C and create a program that represents a bank database. In this project, I had to create multiple C files, header files, and object files. Some of the names of these files include database.o, record.h, user_interface.c, e.t.c. After creating these files, I then linked them together to create an executable file titled project.
 
