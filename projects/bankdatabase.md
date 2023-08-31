@@ -20,4 +20,5 @@ The Bank Database project was an individual project, so I was solely responsible
 
 From this experience, I was able to improve my coding skills and gain more knowledge on how coding in the C language is different from other coding languages I learned such as Java and Python. I also was able to learn how bank databases operate and how difficult it can be to not develop errors when users add or delete their accounts.
 
-link: https://github.com/jonahlene/bankdatabase.io/blob/main/database.c
+A link to my database code: [Bank Database](https://github.com/jonahlene/bankdatabase.io/blob/main/database.c).
+
