@@ -16,21 +16,17 @@
   "interests": [
     { "name": "Cyber Security" },
     { "name": "Network Security" },
+    { "name": "Sports" },
     { "name": "Sustainability" }
   ],
   "skills": [
     {
-      "name": "Experienced in Programming Languages",
+      "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
-      "name": "Able to work with various personality types"
-    },
-    {
-      "name": "Proficient in problem-solving"
-    },
-    {
-      "name": "Deadline driven"
+      "name": "Toolsets/OS",
+      "keywords" : ["Windows", "Ubuntu", "Linux"]
     }
   ],
   "education": [
