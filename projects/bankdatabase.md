@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bank_vault%20(1).png
+image: img/bank_vault.png
 title: "Bank Database"
 date: 2022-03-26
 published: true
