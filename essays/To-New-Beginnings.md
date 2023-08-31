@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="img-fluid" src="https://github.com/jonahlene/jonahlene.github.io/blob/main/img/brain-training-cartoon.png">
+<img class="img-fluid" src="img/brain-training-cartoon.png">
 
 ## Got To Start Somewhere
 
