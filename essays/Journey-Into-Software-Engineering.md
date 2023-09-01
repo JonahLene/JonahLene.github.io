@@ -13,6 +13,8 @@ labels:
 
 ## Interests In Software Engineering
 
+
+
 If you were to ask me to discuss my interests in software engineering when I was in high school, I would look at you with such confusion. I truly had no clue what software engineering was and in general, what computer science was. However, as time progressed, my knowledge of computer science did also. With my newfound interest in computer science, I started to research different types of jobs that people with a computer science degree can get, and one of the popular options was software engineering. 
 
 Even though I am still new to software engineering, one of my interests is to get a feel for how a real working software engineer may function throughout their career. I want to be able to design and build software that can benefit people in the world especially people in my community. With software engineering, people can become architects in the technical world and have the power to put their skills to the test by designing high-functioning solutions to different problems. Software engineering is such an amazing area of computer science because of the vast amount of freedom and creativity that a person has to create different applications. It allows people to transform abstract ideas into tangible, functional solutions.
