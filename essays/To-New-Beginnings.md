@@ -7,11 +7,13 @@ date: 2023-08-30
 published: true
 labels:
   - Software Engineering
+  - Javascript
 ---
 
 <img class="img-fluid" src="../img/brain-training-cartoon.png">
 
 ## Got To Start Somewhere
+
 
 Learning new coding languages has always been easy and difficult for me because I only started coding programs the summer before my first year of college. The very first language that I got to learn was Python and it was amazing to me because of how easy it was to understand since the language was straightforward to read. After learning Python, the following languages that I acquired which were Java, C, and C++, came to me at ease since I was always able to learn by finding similarities between each language. The difficult part that came with learning these languages was following the different syntaxes that each language had. There was never an instance when doing homework or trying to complete a big project where I didn’t look something up to make sure I was doing it correctly. Learning how to import packages and files, and even reading about what different built-in packages did always took time and patience to understand. In the end, the one thing that I am thankful for is being able to start with Python as I feel that it is a very good beginning language to practice with.
 
