@@ -11,7 +11,7 @@ labels:
 summary: "My very first coding project where I created a tic-tac-toe game in Python."
 ---
 
-<img class="img-fluid" src="../img/Screenshot%20(1).png">
+<img class="img-fluid" src="../img/Screenshot%20(6).png">
 
 Since I was a part of the graduation class of 2020, I was offered a special opportunity to take a free college course over the summer. Being that I had no clue what I wanted to major in, I went through the different classes and ended up choosing to take an introductory computer science course for whatever reason that I can't seem to remember. In this course, the coding language that was taught was Python and like any other class during 2020, I was given a set of videos, coding practice, and homework for each remaining weeks of the summer. The homework started with learning how to print "Hello World" and then, of course, became more and more difficult such as how to make different functions and how to use them together in your main code block. 
 
