@@ -45,41 +45,18 @@
     {
       "organization": "Hoʻokuaʻāina",
       "website": "https://hookuaaina.org/",
-      "position": "Software Developer",
+      "position": "Volunteer",
       "startDate": "2022-09-20",
-      "endDate": "Present",
-      "summary": "Maintained loʻi grounds by picking weeds in one of the loʻi patches.",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "endDate": "2022-09-20",
+      "summary": "Maintained loʻi grounds by picking weeds in one of the loʻi patches."
     },
     {
-      "organization": "",
+      "organization": "Rep. Patrick Branco",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "position": "Volunteer",
+      "startDate": "2021-03-14",
+      "endDate": "2021-03-14",
+      "summary": "Picked up plastics, trash, and any other harmful materials at Kalama Beach Park"
     }
   ],
   "references": [
