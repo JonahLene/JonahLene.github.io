@@ -30,7 +30,7 @@ The principles that are established by Raymond make it easy for developers to as
 
 I did notice that the user did get a reply back to their question but not one that I think they were hoping for. Rather than an answer as the user was probably expecting, the user instead got a hint as to why their operation wasn’t running and where to look to help solve their question.
 
-Not Smart Question link: [StackOverflow]([https://www.youtube.com/watch?v=edRbLPh6tJA](https://stackoverflow.com/questions/76858538/test-complete-java-script-i-am-performing-click-operation-on-standalone-applic/76991709#76991709)).
+Not Smart Question link: [StackOverflow](https://stackoverflow.com/questions/76858538/test-complete-java-script-i-am-performing-click-operation-on-standalone-applic/76991709#76991709)
 
 
 ## Importance of Asking Smart Questions
