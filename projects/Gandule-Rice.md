@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gandule-rice.png
+image: img/gandule-rice (1).png
 title: "How to Make Gandule Rice"
 date: 2022-06-17
 published: true
