@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tic_tac_toe.png
+image: img/tic_tac_toe (1).png
 title: "Python Tic-Tac-Toe"
 date: 2020-07-28
 published: true
