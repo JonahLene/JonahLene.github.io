@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bufferoverflowlogo.jpg
+image: img/gandule-rice.png
 title: "Buffer Overflow Attack Lab"
 date: 2023-10-13
 published: true
