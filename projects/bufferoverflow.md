@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/foodnowlogo.png
+image: img/bufferoverflowlogo.jpg
 title: "Food Now"
-date: 2023-12-11
+date: 2023-10-13
 published: true
 labels:
   - Cybersecurity
@@ -14,8 +14,7 @@ labels:
 summary: "The solo cybersecurity project involved hands-on exploration of shellcode, vulnerability exploitation, and countermeasures, providing a comprehensive learning experience and reinforcing the importance of adaptability and continuous learning in the dynamic field of cybersecurity."
 ---
 
-<img class="img-fluid" src="../img/foodnow1.png">
-<img class="img-fluid" src="../img/foodnow2.png">
+<img class="img-fluid" src="../img/buffer-overflow-diagram.png">
 
 The project revolved around delving into the intricacies of cybersecurity, with a particular focus on shellcode, vulnerability analysis, and countermeasures. The primary objective was to gain a practical understanding of security concepts through hands-on tasks, including creating and executing 32-bit and 64-bit binaries, identifying vulnerabilities in programs, and experimenting with various exploitation techniques.
 
