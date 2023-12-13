@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/bufferoverflowlogo.jpg
-title: "Food Now"
+title: "Buffer Overflow Attack Lab"
 date: 2023-10-13
 published: true
 labels:
