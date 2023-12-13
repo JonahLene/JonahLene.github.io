@@ -24,5 +24,5 @@ Through this experience, I gained valuable insights into the challenges of devel
 
 
 Website link: [Food Now](http://67.205.186.185/).
-Github IO link: [Food Now](https://food-now.github.io/).
-Source Code link: [Food Now](https://github.com/food-now/MM/tree/main).
+Github IO link: [food-now.github.io](https://food-now.github.io/).
+Source Code link: [github.com/food-now](https://github.com/food-now/MM/tree/main).
