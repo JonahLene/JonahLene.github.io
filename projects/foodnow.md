@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gandule-rice.png
+image: img/foodnowlogo.png
 title: "Food Now"
 date: 2023-12-11
 published: true
