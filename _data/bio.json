@@ -24,17 +24,17 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Bootstrap" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Bootstrap", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Microsoft Windows", "Ubuntu", "Linux" ]
+      "keywords": [ "Microsoft Windows", "Ubuntu", "Linux", "MongoDB" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Security Science (expected Spring, 2025)",
+      "area": "Security Science (expected December, 2024)",
       "studyType": "B.A.",
       "startDate": "2020-08-21",
       "endDate": "Present",
