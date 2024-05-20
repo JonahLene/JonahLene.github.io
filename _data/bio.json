@@ -46,6 +46,13 @@
     }
   ],
   "volunteer": [
+     {
+      "organization": "Jeff Hui",
+      "position": "Intern",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-02",
+      "summary": "Maintained loʻi grounds by picking weeds in one of the loʻi patches.",
+    },
     {
       "organization": "Hoʻokuaʻāina",
       "website": "https://hookuaaina.org/",
@@ -60,7 +67,9 @@
       "position": "Volunteer",
       "startDate": "2021-03-14",
       "endDate": "2021-03-14",
+      "summary": "Picked up plastics, trash, and any other harmful materials at Kalama Beach Park",
       "summary": "Picked up plastics, trash, and any other harmful materials at Kalama Beach Park"
+
     }
   ],
   "references": [
