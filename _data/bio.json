@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Jonah Lene",
+    "label": "Student",
+    "picture": "img/IMG_2268.JPG",
+    "email": "jonah20@hawaii.edu",
+    "phone": "808-426-8605",
+    "website": "https://jonahlene.github.io",
+    "summary": "I am studying for a B.A. in Information & Computer Science - Security Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96734", "city": "Kailua", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jonahlene", "url": "http://github.com/jonahlene" },
+      { "network": "linkedin", "username": "jonahlene", "url": "https://www.linkedin.com/in/jonah-lene-34636128a/" }
+    ]
+  },
+  "interests": [
+    { "name": "Cyber Security" },
+    { "name": "Network Security" },
+    { "name": "Programming" },
+    { "name": "Sports" },
+    { "name": "Fishing" },
+    { "name": "Sustainability" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Bootstrap", "SQL" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Microsoft Windows", "Ubuntu", "Linux", "MongoDB" ]
+    },
+    {
+      "name": "Computer Security",
+      "keywords": [ "Hashcat", "Nmap", "Wireshark", "Aircrack-ng", "John the Ripper" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Security Science (expected December, 2024)",
+      "studyType": "B.A.",
+      "startDate": "2020-08-21",
+      "endDate": "Present",
+      "courses": [ "Digital Forensics", "Operating Systems", "Intro to Comp & Ntwrk Security", "Software Engineering", "Database Systems" ]
+    }
+  ],
+  "volunteer": [
+     {
+      "organization": "Jeff Hui",
+      "position": "Intern",
+      "startDate": "2024-01-01",
+      "summary": [ "Assisted in preparing information and research materials for weekly presentations.", " Enhanced intern productivity by assisting with project coordination and providing ongoing support.", " Contributed to a positive team environment by collaborating with fellow interns on the group project.", " Conducted interviews to gather information for possible MVP." ]
+    },
+    {
+      "organization": "Hoʻokuaʻāina",
+      "website": "https://hookuaaina.org/",
+      "position": "Volunteer",
+      "startDate": "2022-09-20",
+      "summary": [ "Maintained loʻi grounds by picking weeds in one of the loʻi patches.", " Gained knowledge and experience working in a loʻi patch." ]
+    },
+    {
+      "organization": "Rep. Patrick Branco",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2021-03-14",
+      "summary": [ "Picked up plastics, trash, and any other harmful materials at Kalama Beach Park.", " Help load, take, and dispose of bags of trash at our local dump facility." ]
+
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

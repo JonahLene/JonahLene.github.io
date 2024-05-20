@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="MD5 Collision Attack Lab | Jonah Lene | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="img/IMG_2268.JPG">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jonah Lene | Professional Portfolio">
+    <meta property="og:url" content="https://jonahlene.github.io/projects/MD5HashCollision.html">
+    <meta property="og:title" content="MD5 Collision Attack Lab | Jonah Lene | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="img/IMG_2268.JPG">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>MD5 Collision Attack Lab | Jonah Lene | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jonah Lene</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">MD5 Collision Attack Lab</h1>
+ <p><img class="img-fluid" src="../img/Screenshot%202024-05-20%20133427.png" /></p>
+
+<p>In the MD5 Collision Attack Lab, I got to delve into the intricacies of cryptographic hash functions, specifically focusing on the MD5 algorithm. The primary goal was to understand the importance of the collision-resistance property, which ensures that it’s computationally infeasible to find two different inputs producing the same hash value. Through this lab, I could see firsthand how vulnerabilities in hash functions like MD5 and SHA-1 can lead to significant security breaches, as demonstrated by real-world attacks.</p>
+
+<p>In the first task, I generated two distinct files that shared the same MD5 hash using the md5collgen tool. This tool allowed me to provide a prefix for both files, and I verified that the outputs were different but had identical hash values using the diff and md5sum commands. This exercise vividly illustrated how two different files could be crafted to produce the same hash, highlighting the vulnerability of MD5 to collision attacks.</p>
+
+<p>Next, I explored some fundamental properties of the MD5 algorithm. I designed an experiment to demonstrate that if two inputs produce the same hash, appending the same suffix to both results in outputs with the same hash. Using file concatenation commands, I confirmed this property, reinforcing my understanding of MD5’s iterative process and the implications of its structure.</p>
+
+<p>In the third task, I took on the challenge of creating two different executable files with the same MD5 hash. By working with binary data, I used a hex editor and the md5collgen tool to manipulate specific sections of compiled programs. This involved identifying and modifying particular bytes to create hash collisions while ensuring that the executables behaved differently. This task was a practical demonstration of how collision attacks can be applied, and it gave me valuable experience in working with binary files.</p>
+
+<p>Finally, I tackled a more advanced scenario where two programs with the same MD5 hash had entirely different behaviors based on internal conditions. By manipulating arrays within the program’s binary, I made one version execute benign code and the other execute malicious code. This task demonstrated how an attacker could potentially exploit the collision vulnerability to get a malicious program certified as benign. This scenario underscored the critical importance of collision-resistant hash functions in maintaining the integrity and security of software and data.</p>
+
+<p>Lab Report: <a href="https://docs.google.com/document/d/1-JAO1mbFJmnzzD4WO2j8pjnZzg9QdRZ-UGasOSRzGqQ/edit">MD5 Collision Attack Lab Report</a>.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
