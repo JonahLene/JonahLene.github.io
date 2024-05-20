@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/MD5CollisionHash.png
-title: "Buffer Overflow Attack Lab"
+title: "MD5 Collision Attack Lab"
 date: 2024-05-10
 published: true
 labels:
@@ -29,4 +29,4 @@ In the third task, I took on the challenge of creating two different executable 
 Finally, I tackled a more advanced scenario where two programs with the same MD5 hash had entirely different behaviors based on internal conditions. By manipulating arrays within the program's binary, I made one version execute benign code and the other execute malicious code. This task demonstrated how an attacker could potentially exploit the collision vulnerability to get a malicious program certified as benign. This scenario underscored the critical importance of collision-resistant hash functions in maintaining the integrity and security of software and data.
 
 
-Lab Report: [Buffer Overflow Attack Lab]([https://github.com/jonahlene/bufferoverflowlab/blob/main/EE406_Lab2BufferOverflowSetUID_LabReport.pdf](https://docs.google.com/document/d/1-JAO1mbFJmnzzD4WO2j8pjnZzg9QdRZ-UGasOSRzGqQ/edit)).
+Lab Report: [MD5 Collision Attack Lab Report](https://docs.google.com/document/d/1-JAO1mbFJmnzzD4WO2j8pjnZzg9QdRZ-UGasOSRzGqQ/edit).
