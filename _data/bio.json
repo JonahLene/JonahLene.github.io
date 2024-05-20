@@ -29,6 +29,10 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "Microsoft Windows", "Ubuntu", "Linux", "MongoDB" ]
+    },
+    {
+      "name": "Computer Security",
+      "keywords": [ "Hashcat", "Nmap", "Wireshark", "Aircrack-ng", "John the Ripper" ]
     }
   ],
   "education": [
@@ -38,8 +42,19 @@
       "studyType": "B.A.",
       "startDate": "2020-08-21",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [ "Digital Forensics", "Operating Systems", "Intro to Comp & Ntwrk Security", "Software Engineering", "Database Systems" ]
+    }
+  ],
+  "internship": [
+    {
+      "organization": "Jeff Hui",
+      "position": "Intern",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-02",
+      "summary": "Assisted in preparing information and research materials for weekly presentations.",
+      "summary": "Enhanced intern productivity by assisting with project coordination and providing ongoing support."
+      "summary": "Contributed to a positive team environment by collaborating with fellow interns on the group project.",
+      "summary": "Conducted interviews to gather information for possible MVP."
     }
   ],
   "volunteer": [
@@ -49,8 +64,8 @@
       "position": "Volunteer",
       "startDate": "2022-09-20",
       "endDate": "2022-09-20",
-      "summary": "Maintained loʻi grounds by picking weeds in one of the loʻi patches."
-    },
+      "summary": "Maintained loʻi grounds by picking weeds in one of the loʻi patches.",
+      "summary": "Gained knowledge and experience working in a loʻi patch."    },
     {
       "organization": "Rep. Patrick Branco",
       "website": "",
@@ -58,6 +73,7 @@
       "startDate": "2021-03-14",
       "endDate": "2021-03-14",
       "summary": "Picked up plastics, trash, and any other harmful materials at Kalama Beach Park"
+      "summary": "Help load, take, and dispose of bags of trash at our local dump facility."    
     }
   ],
   "references": [
